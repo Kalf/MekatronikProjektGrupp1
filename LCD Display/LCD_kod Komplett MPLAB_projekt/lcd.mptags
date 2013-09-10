@@ -1,0 +1,37 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+LCD_D4::LATBbits.LATB0	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.c	31;"	d	line:31	file:
+LCD_D5::LATBbits.LATB1	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.c	32;"	d	line:32	file:
+LCD_D6::LATBbits.LATB2	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.c	33;"	d	line:33	file:
+LCD_D7::LATBbits.LATB3	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.c	34;"	d	line:34	file:
+LCD_EN::LATBbits.LATB4	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.c	36;"	d	line:36	file:
+LCD_RS::LATBbits.LATB5	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.c	37;"	d	line:37	file:
+LCD_STROBE::{LCD_EN=1;LCD_EN=0;}	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.c	39;"	d	line:39	file:
+character_set	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\main.c	14;"	l	line:14
+cnt1	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.c	50;"	l	line:50
+cnt2	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.c	58;"	l	line:58
+delay_100ms	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.c	57;"	f	line:57	signature:(void)
+delay_2ms	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.c	49;"	f	line:49	signature:(void)
+delay_50us::Delay10TCYx(5)	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.c	44;"	d	line:44	file:
+init	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\main.c	10;"	p	line:10	file:	signature:(void)
+init	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\main.c	35;"	f	line:35	signature:(void)
+lcd_clear	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.c	83;"	f	line:83	signature:(void)
+lcd_clear	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.h	8;"	p	line:8	signature:(void)
+lcd_cmd	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.c	104;"	f	line:104	signature:(unsigned char command)
+lcd_cmd	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.h	20;"	p	line:20	signature:(unsigned char command)
+lcd_goto	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.c	97;"	f	line:97	signature:(unsigned char pos)
+lcd_goto	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.h	14;"	p	line:14	signature:(unsigned char pos)
+lcd_init	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.c	111;"	f	line:111	signature:(void)
+lcd_init	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.h	17;"	p	line:17	signature:(void)
+lcd_write	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.c	66;"	f	line:66	signature:(unsigned char c)
+lcd_write	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.h	23;"	p	line:23	signature:(unsigned char c)
+lcd_writes	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.c	91;"	f	line:91	signature:( char * s)
+lcd_writes	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\lcd.h	11;"	p	line:11	signature:(char * s)
+main	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\main.c	12;"	f	line:12	signature:(void)
+name	Z:\Mekatronikprojekt SSY025\2013lp1\lcd\lcd_kod\main.c	13;"	l	line:13
